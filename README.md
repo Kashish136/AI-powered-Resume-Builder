@@ -1,4 +1,4 @@
-:
+
 
 📝 AI-Powered Resume Builder
 
@@ -6,26 +6,26 @@ An AI-powered full-stack resume builder that helps users create, enhance, and op
 
 🚀 Features
 
-Create & Update Resumes – Add or modify your professional summary and job descriptions easily.
+• Create & Update Resumes – Add or modify your professional summary and job descriptions easily.
 
-AI-Powered Enhancements – Generate improved content using Google Gemini API 🤖.
+• AI-Powered Enhancements – Generate improved content using Google Gemini API 🤖.
 
-Image Uploads – Upload and manage profile pictures using ImageKit & Multer 🖼️.
+• Image Uploads – Upload and manage profile pictures using ImageKit & Multer 🖼️.
 
-Secure Authentication – JWT-based authentication for secure login and session management 🔐.
+• Secure Authentication – JWT-based authentication for secure login and session management 🔐.
 
-Real-Time Resume Updates – Persist data in MongoDB and fetch enhanced resumes instantly 📂.
+• Real-Time Resume Updates – Persist data in MongoDB and fetch enhanced resumes instantly 📂.
 
 🛠️ Tech Stack
 
-Frontend: React + Redux ⚛️
+• Frontend: React + Redux ⚛️
 
-Backend: Node.js + Express.js 🖥️
+• Backend: Node.js + Express.js 🖥️
 
-Database: MongoDB 🗄️
+• Database: MongoDB 🗄️
 
-Authentication: JWT Tokens 🔑
+• Authentication: JWT Tokens 🔑
 
-AI Integration: Google Gemini API 🤖
+• AI Integration: Google Gemini API 🤖
 
-Image Handling: ImageKit + Multer 🖼️
+• Image Handling: ImageKit + Multer 🖼️
